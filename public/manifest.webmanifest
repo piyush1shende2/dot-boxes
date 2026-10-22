@@ -1,0 +1,11 @@
+{
+  "name": "Dots & Boxes",
+  "short_name": "Dots&Boxes",
+  "description": "Classic Dots and Boxes for 1-7 players, playable offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1ece3",
+  "theme_color": "#f7f1e7",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

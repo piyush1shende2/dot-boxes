@@ -21,7 +21,9 @@ npm run dev
 npm run build
 npm run preview
 ```
+## Play Online
 
+https://piyush1shende2.github.io/dot-boxes/
 Open the preview URL once, then turn off your internet and reload - the game still works.
 (Browsers block ES modules from `file://`, so use `npm run preview` or the deployed site rather than double-clicking `dist/index.html`.)
 
